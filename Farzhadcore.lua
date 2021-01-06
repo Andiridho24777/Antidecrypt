@@ -1,1 +1,1 @@
-gg.alert("Script dalam perbaikan👮‍♂️")
+gg.alert("script maintenance👮‍♂️")
